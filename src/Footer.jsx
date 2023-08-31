@@ -1,4 +1,4 @@
 function Footer() {
-    return <p>Copyright 2023 </p>;
+    return <p></p>;
   }
   export default Footer;
